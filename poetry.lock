@@ -817,7 +817,7 @@ python-versions = "*"
 
 [[package]]
 name = "types-six"
-version = "1.16.16"
+version = "1.16.17"
 description = "Typing stubs for six"
 category = "dev"
 optional = false
@@ -1562,8 +1562,8 @@ types-simplejson = [
     {file = "types_simplejson-3.17.6-py3-none-any.whl", hash = "sha256:c92336cee5361b2a33c68b479ca3f24da2bfe39c7de5f49b3c017c21446cbfc7"},
 ]
 types-six = [
-    {file = "types-six-1.16.16.tar.gz", hash = "sha256:0bfbea0ea5780d861f9deab9053e4809f586f5fb3ef0257ce30b938772a4d09c"},
-    {file = "types_six-1.16.16-py3-none-any.whl", hash = "sha256:b40078231175423affc00dd0cbb127a5a2bf3dee915890a47947ebc1ab25eee7"},
+    {file = "types-six-1.16.17.tar.gz", hash = "sha256:5fcb1236616eb906637aebec071691b1541dea22ee43f5ce92f5c775cbafc2dd"},
+    {file = "types_six-1.16.17-py3-none-any.whl", hash = "sha256:4ff0caa93e90d14cf4858dac1a9e004bb7cae2cfa63e978d435a11060cb1182d"},
 ]
 types-toml = [
     {file = "types-toml-0.10.7.tar.gz", hash = "sha256:a567fe2614b177d537ad99a661adc9bfc8c55a46f95e66370a4ed2dd171335f9"},
